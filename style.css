@@ -64,7 +64,7 @@ body {
   #clear-storage-btn,
   #add-price-btn {
     padding: 8px 20px;
-    background-color: #127415;
+    background-color: #C5B08D;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -80,7 +80,7 @@ body {
   #new-page:hover,
   #clear-storage-btn:hover,
   #add-price-btn:hover {
-    background-color: #45a049;
+    background-color: #DED5BC;
   }
   
   #output {
